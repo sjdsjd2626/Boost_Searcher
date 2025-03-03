@@ -1,3 +1,3 @@
-# Boost_Searcher
+# boostsearcherforgitee
 
-## github上是一些[issues](https://github.com/sjdsjd2626/Boost_Searcher/issues)：这个项目的大体制作过程和一些解释
+## 直接clone到本地，然后进入boost_search目录，直接make编译即可
